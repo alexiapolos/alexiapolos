@@ -2,7 +2,7 @@
 <h3 align="left">A biomedical scientist, molecular biology lover, aspiring bioinformatician & algorithm enthusiast</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-(img align="center" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://media.giphy.com/media/t79McFW5Yxxff4FP09/giphy.gif).")
+<p><img align="center" src="https://media.giphy.com/media/t79McFW5Yxxff4FP09/giphy.gif" /></p>
 
 - 🧬 I’m currently working on **genomic and transcriptomic data projects**
 
