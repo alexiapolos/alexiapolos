@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alexiapolo98@gmail.com**
 
-- ⚡ Fun fact **I am not the one from Amazon"**
+- ⚡ Fun fact ---> **I am not the one from Amazon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
