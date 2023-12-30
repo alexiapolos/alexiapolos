@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **bioinformatic tools and machine learning algorithms**
 
-- 📫 How to reach me **alexiapolo98@gmail.com**
+- 📫 How to reach me **alexiapolo@usp.br**
 
 - ⚡ Fun fact ---> **I am not the one from Amazon**
 
