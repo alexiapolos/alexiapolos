@@ -1,8 +1,6 @@
 <h1 align="left">Aléxia, start coding</h1>
 <h3 align="left">A biomedical scientist, molecular biology lover, aspiring bioinformatician & algorithm enthusiast</h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🧬 I’m currently working on **genomic and transcriptomic data projects**
 
 - 📚 I’m currently learning **fundamentals of statistical learning, data science, and data visualization**
