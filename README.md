@@ -1,8 +1,8 @@
 <h1 align="left">Aléxia, start coding</h1>
-<h3 align="left"> Molecular biology lover, aspiring bioinformatician & algorithm enthusiast</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p><img align="center" src="https://media.giphy.com/media/t79McFW5Yxxff4FP09/giphy.gif" /></p>
+
+<h3 align="left"> Molecular biology lover, aspiring bioinformatician & algorithm enthusiast</h3>
 
 - 🧬 I’m currently working on **genomic and transcriptomic data projects**
 
