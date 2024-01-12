@@ -8,8 +8,6 @@
 
 - 📚 I’m currently learning **fundamentals of statistical learning, data science, and data visualization**
 
-- 🖥 I’m looking to collaborate on **health datascience research**
-
 - 📫 How to reach me **alexiapolo@usp.br**
 
 - ⚡ Fun fact ---> **I am not the one from Amazon**
