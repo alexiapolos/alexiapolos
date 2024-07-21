@@ -4,10 +4,6 @@
 
 <h3 align="left"> Data analyst, aspiring data scientist & ML enthusiast</h3>
 
-- 🧬 I’m currently working on 
-
-- 📚 I’m currently learning **fundamentals of statistical learning, data science, and data visualization**
-
 - 📫 How to reach me **alexiapolo@usp.br**
 
 - ⚡ Fun fact ---> **I am not the one from Amazon**
