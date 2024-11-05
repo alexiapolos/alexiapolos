@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexiapolos&show_icons=true&theme=dracula&locale=en" alt="alexiapolos" /></p>
 
-<h3 align="left"> Data analyst, aspiring data scientist & ML enthusiast</h3>
+<h3 align="left"> Data analyst, aspiring data scientist & IA enthusiast</h3>
 
 - 📫 How to reach me **alexiapolo@usp.br**
 
